@@ -9,21 +9,24 @@
 <img align="right" width="50%" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<li> 💻 Software engineer at Progress</li>
+<li> 🏛 Currently studying Software Engineering<br/>&emsp;&emsp;&emsp;Sofia University "St. Kliment Ohridski" </li>
+<li> 🎓 Programming teaching assistant</li>
+<li>👾 Fun fact: C/C++ is extensively used by NASA</li>
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
-<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/angular.png"></code>
-<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vb6.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vbnet.jpg"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/javascript.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/sql.svg"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/angular.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vb6.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vbnet.jpg"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/javascript.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/sql.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/Git.png"></code>
+<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/terminal.png"></code>
 <br/>
 
-
-
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
 
