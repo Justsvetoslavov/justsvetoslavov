@@ -12,13 +12,13 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/cpp.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/java.png"></code>
-<code><img width="43" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/angular.png"></code>
-<code><img width="43" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/vb6.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/vbnet.jpg"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/javascript.png"></code>
-<code><img width="40" src="https://github.com/Justsvetoslavov/Justsvetoslavov/blob/main/assets/sql.svg"></code>
+<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
+<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
+<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/angular.png"></code>
+<code><img width="43" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vb6.png"></code>
+<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vbnet.jpg"></code>
+<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/javascript.png"></code>
+<code><img width="40" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/sql.svg"></code>
 <br/>
 
 
