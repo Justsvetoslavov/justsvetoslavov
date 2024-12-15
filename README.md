@@ -8,14 +8,14 @@
 
 <img align="right" width="50%" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
 
-<li> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </li>
+<h3> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h3>
 <li> 💻 Software engineer at Progress</li>
 <li> 🏛 Currently studying Software Engineering<br/>&emsp;&emsp;&emsp;Sofia University "St. Kliment Ohridski" </li>
 <li> 🎓 Programming teaching assistant</li>
 <li>👾 Fun fact: C/C++ is extensively used by NASA</li>
 
 <br/>
-<li>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</li>
+<h3>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/angular.png"></code>
