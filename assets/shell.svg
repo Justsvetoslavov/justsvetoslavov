@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#1e1e1e"/>
+  <text x="22" y="28" font-family="Courier New,monospace" font-size="18" fill="#00d8d8">&gt;_</text>
+  <text x="50%" y="54" font-family="Verdana,Arial,sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">shell</text>
+</svg>
