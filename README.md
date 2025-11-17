@@ -21,14 +21,10 @@
 <h3>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/angular.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vb6.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vbnet.jpg"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/javascript.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/sql.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/Git.png"></code>
 <code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/terminal.png"></code>
-<!-- Newly added / expanded skill icons -->
 <code><img height="25" width="25" title="C" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/c.svg"></code>
 <code><img height="25" width="25" title="C# / .NET" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/csharp.svg"></code>
 <code><img height="25" width="25" title="Bash" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/bash.svg"></code>
@@ -42,8 +38,6 @@
 <code><img height="25" width="25" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="25" width="25" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="25" width="25" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
-<code><img height="25" width="25" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="25" width="25" title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
 <code><img height="25" width="25" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 <code><img height="25" width="25" title="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"></code>
 <code><img height="25" width="25" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
