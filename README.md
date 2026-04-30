@@ -19,29 +19,32 @@
 
 <br/>
 <h3>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/cpp.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/java.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vb6.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/vbnet.jpg"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/sql.png"></code>
-<code><img height="25" width="25" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/terminal.png"></code>
-<code><img height="25" width="25" title="C" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/c.svg"></code>
-<code><img height="25" width="25" title="C# / .NET" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/csharp.svg"></code>
-<code><img height="25" width="25" title="Bash" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/bash.svg"></code>
-<code><img height="25" width="25" title="Generic Shell" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/shell.svg"></code>
-<code><img height="25" width="25" title="PowerShell" src="https://github.com/Justsvetoslavov/justsvetoslavov/blob/master/assets/powershell.svg"></code>
-<code><img height="25" width="25" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="25" width="25" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" width="25" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="25" width="25" title="ASP.NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="25" width="25" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="25" width="25" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="25" width="25" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="25" width="25" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
-<code><img height="25" width="25" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="25" width="25" title="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"></code>
-<code><img height="25" width="25" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="25" width="25" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<p>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/cpp.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/java.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/vb6.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/vbnet.jpg"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/sql.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/terminal.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/c.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/csharp.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/bash.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/shell.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/powershell.svg"/>
+
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</p>
 <br/>
 
 
