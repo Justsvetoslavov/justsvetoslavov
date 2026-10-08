@@ -10,7 +10,7 @@
 
 <h3><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲</h3>
 <ul>
-  <li>💻 Software Engineer at Progress</li>
+  <li>💻 Software Engineer at <a href="https://www.paloaltonetworks.com/">Palo Alto Networks</a>.</li>
   <li>🎓 Graduated in Software Engineering at Sofia University “St. Kliment Ohridski”</li>
   <li>🏛 Currently studying Pedagogy for Teaching Mathematics and Informatics at Sofia University “St. Kliment Ohridski”</li>
   <li>🧑‍🏫 Programming Teaching Assistant</li>
