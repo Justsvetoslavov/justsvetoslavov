@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
