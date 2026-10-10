@@ -1,10 +1,13 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Nikola Svetoslavov</h1>
+<div align="center">
+  <h1>Hey there! I'm Nikola Svetoslavov</h1>
+  <p><strong>Senior Staff Software Engineer @ Palo Alto Networks</strong> | C++ • Systems • Cybersecurity</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikola-svetoslavov-221349229/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/justsvetoslavov/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100000867574565) 
-![counter](https://komarev.com/ghpvc/?username=justsvetoslavov&style=flat-square)
-![](https://visitor-badge.glitch.me/badge?page_id=justsvetoslavov.justsvetoslavov&style=flat-square&color=0088cc)
+  <p>
+    <a href="https://www.linkedin.com/in/nikola-svetoslavov-221349229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/justsvetoslavov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <img src="https://komarev.com/ghpvc/?username=justsvetoslavov&style=flat-square&color=0077B5" alt="Profile Views" />
+  </p>
+</div>
 
 <img align="right" width="50%" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
 
@@ -17,37 +20,44 @@
   <li>👾 Fun fact: C/C++ is extensively used by NASA 🚀</li>
 </ul>
 
-<br/>
-<h3>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
+<h3>Core Skills & Tech Stack</h3>
 <p>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/cpp.png"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/java.png"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/vb6.png"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/vbnet.jpg"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/sql.png"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/terminal.png"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/c.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/csharp.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/bash.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/shell.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/Justsvetoslavov/justsvetoslavov/master/assets/powershell.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio"/>
 
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
+
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
+
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"/>
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva"/>
 </p>
-<br/>
 
-
-![Snake animation](./assets/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="100%" src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
